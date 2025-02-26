@@ -7,4 +7,4 @@ The framework enforces symmetry and sparsity through a tailored loss function, a
 
 We validate the method through a benchmarking study on sex classification using the Human Connectome Project (HCP) dataset. Experimental results demonstrate that our framework outperforms GNN-based approaches, achieving higher classification accuracy and more robust feature representations. These findings underscore the effectiveness of attention-based modules in functional connectivity analysis.
 
-![Models](./img/models.pdf)
+![Models](./img/models.png)
