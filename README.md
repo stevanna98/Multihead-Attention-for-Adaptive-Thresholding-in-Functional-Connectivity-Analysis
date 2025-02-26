@@ -6,3 +6,5 @@ Graph Neural Networks (GNNs) are commonly used for functional connectivity analy
 The framework enforces symmetry and sparsity through a tailored loss function, allowing the network to retain the most relevant functional connections while filtering out non-informative ones. This ensures the preservation of essential connectivity patterns.
 
 We validate the method through a benchmarking study on sex classification using the Human Connectome Project (HCP) dataset. Experimental results demonstrate that our framework outperforms GNN-based approaches, achieving higher classification accuracy and more robust feature representations. These findings underscore the effectiveness of attention-based modules in functional connectivity analysis.
+
+![Models](./img/models.pdf)
